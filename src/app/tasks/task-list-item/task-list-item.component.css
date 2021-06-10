@@ -1,0 +1,12 @@
+.task-completed {
+  text-decoration: line-through;
+}
+
+.task-item-description {
+  flex-grow: 1;
+  white-space: pre-line;
+}
+
+button:nth-child(1n) {
+  margin-left: 10px;
+}
